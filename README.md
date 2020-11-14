@@ -24,7 +24,7 @@ maxes:
 This allows you to use percentages when you put in Bench Press or Squat as the name of the exercise. If you try to use a percentage with a lift not listed here, you will encounter an error.
 
 The last section is the program section. This specifies the exercises you want in the spreadsheet. It is separated by week, then day, then exercise. This section has to be begun with the keyword program.
-```
+```yaml
 program:
   Week 1:
     Day 1:
