@@ -1,0 +1,70 @@
+config:
+  units: lbs
+
+maxes:
+  Bench Press: 275
+  Deadlift: 375
+  Squat: 275
+
+program:
+  NAEKOV:
+    Day 1:
+      Squat:
+        sets: 6
+        reps: 6
+        weight: 70%
+    Day 2:
+      Deadlift:
+        sets: 6
+        reps: 6
+        weight: 70%
+    Day 3:
+      Bench Press:
+        sets: 6
+        reps: 6
+        weight: 70%
+    Day 4:
+      Squat:
+        sets: 7
+        reps: 5
+        weight: 75%
+    Day 5:
+      Deadlift:
+        sets: 7
+        reps: 5
+        weight: 75%
+    Day 6:
+      Bench Press:
+        sets: 7
+        reps: 5
+        weight: 75%
+    Day 7:
+      Squat:
+        sets: 8
+        reps: 4
+        weight: 80%
+    Day 8:
+      Deadlift:
+        sets: 8
+        reps: 4
+        weight: 80%
+    Day 9:
+      Bench Press:
+        sets: 8
+        reps: 4
+        weight: 80%
+    Day 10:
+      Squat:
+        sets: 10
+        reps: 3
+        weight: 85%
+    Day 11:
+      Deadlift:
+        sets: 10
+        reps: 3
+        weight: 85%
+    Day 12:
+      Bench Press:
+        sets: 10
+        reps: 3
+        weight: 85%
